@@ -1,0 +1,41 @@
+<footer class="footer" role="contentinfo">
+
+  <div class="footer__description">
+    <a href="/" class="footer-logo">{% include_cached icons/icon-logo.html %}</a>
+    <p>Cám ơn bạn đã vấp phải trang này của Tiepz Studio, nếu đây là lần đầu tiên tìm hiểu về nuôi thỏ, trồng cây xanh thì mời bạn đọc <span class="caps"><a href="/hello/">Hello&nbsp;World</a></span>.</p>
+  </div>
+
+  <div class="footer__topics">
+    <h2>Xem theo danh mục</h2>
+    {% include_cached topics-list.html %}
+  </div>
+
+  <div class="footer__about">
+    <h2>từ Tiepz Studio</h2>
+    <ul>
+      <li><a href="/about/">Giới thiệu chung</a></li>
+      <li><a href="/archive/">Archive</a></li>
+      <li><a href="/subscribe/">Subscribe</a></li>
+      <li><a href="/series/">Series</a></li>
+      <li><a href="/styleguide/">Style Guide</a></li>
+      <li><a href="/contribute/">Contribute</a></li>
+    </ul>
+  </div>
+
+  {% unless include.url == '/search/' %}
+    {% include search-form.html %}
+  {% endunless %}
+
+  <div class="sub-footer">
+    <small><em>Tiepz Magazine</em> is proudly built with <a href="https://jekyllrb.com/">Jekyll</a> and hosted with <a href="https://tiepz.com/">Tiepz</a>. Made with {% include_cached icons/icon-heart.html css_classes="icon--inline
+    icon--medium" %} in Tống vũ, vũ chính, Thái Bình.</small>
+
+    <small>&copy; 2013&ndash;<script>document.write(new Date().getFullYear())</script> Phạm Xuân Tiếp.</small>
+  </div>
+</footer>
+
+<!-- JS libraries -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/loadCSS/2.0.1/loadCSS.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/loadCSS/2.0.1/cssrelpreload.min.js"></script>
+
+<script src="/assets/app.js?ver={{ site.time | date: '%Y%m%d%H%M%S' }}"></script>

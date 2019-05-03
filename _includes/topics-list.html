@@ -1,0 +1,10 @@
+<ul>
+{% assign sortedCategories = site.categories | sort %}
+{% for category in sortedCategories %}
+  <li>
+    <a href="/{{ category[0] | slugify }}/">
+      {{ category[0] }}
+      {% if include.count == true %}<span>{{ category | last | size }}</span>{% endif %}
+    </a>
+{% endfor %}
+</ul>
