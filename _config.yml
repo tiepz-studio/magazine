@@ -28,7 +28,7 @@ defaults:
         movie:
           letterboxd:
 name: Tiepz Magazine
-url: https://brightpixels.blog
+url: https://magazine.tiepz.com
 description:
   A web-column about comic books, Star Wars, movies, Apple, technology,
   and other geekery.
@@ -72,9 +72,9 @@ webmentions:
     last_year: weekly
     older: every 2 months
   legacy_domains:
-    - https://brightlycolored.org
-    - http://theboldreport.net
-    - https://theboldreport.net
+    - https://magazine.tiepz.com
+    - https://tiepz.com
+    - https://nuoitho.com
   templates:
     likes: _includes/webmentions/like.html
     reposts: _includes/webmentions/repost.html
