@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Chào đón các bạn đến Tiepz
 permalink: "/hello/"
 layout: page
 seo_title: New to Tiepz Magazine? Read this first
