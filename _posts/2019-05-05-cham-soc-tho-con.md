@@ -3,7 +3,7 @@ title: Nuôi thỏ con đến khi tách mẹ 31 ngày tuổi
 seo_title: trong bài hướng dẫn này mình sẽ viết về chủ đề đó là chăm sóc thỏ con
 custom_type: post
 categories:
-- Nuôi thỏ con
+- Little Rabbit
 excerpt: trong bài hướng dẫn này mình sẽ viết về chủ đề đó là chăm sóc thỏ con
 featured_image: /uploads/2019/05/thocon_tiepz.jpg
 date: 2019-05-05 04:42
