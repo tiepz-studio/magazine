@@ -5,7 +5,7 @@ layout: page
 ---
 
 <section class="card card--light card--large">
-  <h2>Tiepz Magazine Dispatch</h2>
+  <h2>Đặt mua sản phẩm hỗ trợ nuôi thỏ</h2>
   {% include newsletter-form.html %}
 </section>
 

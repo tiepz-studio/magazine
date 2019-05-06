@@ -33,7 +33,7 @@ After chatting with my friend [John Locke](https://twitter.com/Lockedown_), it m
 
 There are three ways to keep up with all the latest and greatest:
 
-- [*Tiepz Magazine Dispatch*](/subscribe/): This weekly email goes out on Friday. Your info is never shared or sold. Ew.
+- [*Đặt mua sản phẩm hỗ trợ nuôi thỏ*](/subscribe/): This weekly email goes out on Friday. Your info is never shared or sold. Ew.
 - [RSS Feed](https://feedpress.me/brightpixels): If you don't know what RSS is, [here's a good introduction](https://www.lifewire.com/rss-101-3482781).
 - [Twitter](https://twitter.com/brightpxblog): The account is updated with every new post.
 
