@@ -12,7 +12,7 @@ date: 2019-05-05 04:42
 
 trong bài hướng dẫn này mình sẽ viết về chủ đề đó là chăm sóc thỏ con sau khi trách mẹ 31 ngày và trước thời điểm tách mẹ.
 <figure class="extendout">
-  {% include img.html src="/2019/05/thocon_tiepz.jpg" alt="Four screenshots of Cardhop on iOS. First shows all contacts, next we see how to add a new contact, the third shows detailed contact information, then the last one shows what the business card looks like." %}
+  {% include img.html src="/2019/05/thocon_tiepz.jpg" alt="Nuôi thỏ con đến khi tách mẹ 31 ngày tuổi" %}
 </figure>
 
 - Sau khi thỏ mẹ sinh thì tùy vào số lượng con mà cho thỏ phối liền sau khi sinh 3 -4 ngày, 15 hay 30 ngày. Nếu thỏ đẻ dưới 4 con thì cho phối liền, trên 4 con thì 15 hay 30 ngày tùy giống thỏ và kỹ thuật chăm sóc của mỗi trại.
