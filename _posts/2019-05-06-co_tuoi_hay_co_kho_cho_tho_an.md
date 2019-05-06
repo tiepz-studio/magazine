@@ -4,10 +4,10 @@ seo_title: Điều quan trọng nhất của chế độ ăn của thỏ là s�
 custom_type: post
 tags: [Làm cỏ khô]
 categories:
-- cỏ khô
+- Cỏ khô
 excerpt: Điều quan trọng nhất của chế độ ăn của thỏ là số lượng cỏ khô không giới hạn.
 featured_image: /uploads/2019/05/hay1.jpg
-date: 2019-05-06 14:17:25 -05:00
+date: 2019-05-05 04:42
 ---
 
 Điều quan trọng nhất của chế độ ăn của thỏ là số lượng cỏ khô không giới hạn, đó là **cỏ khô**. Hàm lượng chất xơ cao của nó là thành phần chính để duy trì sức khỏe răng và ruột tốt. Không có chất xơ, hệ thống tiêu hóa của thỏ không thể di chuyển thức ăn qua ruột và răng của chúng sẽ không bị mòn và có thể mọc dài một cách đau đớn gây hại hệ tiêu hoá. Đặt mua hạt giống cỏ làm cỏ khô.
