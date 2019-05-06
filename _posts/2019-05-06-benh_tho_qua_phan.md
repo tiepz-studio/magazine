@@ -2,9 +2,9 @@
 title: Bệnh thỏ qua phân
 seo_title: Điều quan trọng nhất là nhìn phân để đoán bệnh thỏ
 custom_type: post
-tags: [Làm cỏ khô]
+tags: [Chữa bệnh cho thỏ]
 categories:
-- Cỏ khô
+- Bệnh thỏ
 excerpt: Điều quan trọng nhất là nhìn qua phân thỏ để đoán bệnh mà chữa trị.
 featured_image: /uploads/2019/05/hay1.jpg
 date: 2019-05-06 04:42
