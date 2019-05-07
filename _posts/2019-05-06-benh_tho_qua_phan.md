@@ -33,4 +33,24 @@ Hoặc Viên phân cứng bình thường có màu từ nâu nhạt đến đen 
   {% include img.html src="/2019/05/benh/phan2.jpg" alt="xem bệnh qua phân thỏ" %}
 </figure>
 
- ![bệnh qua phân thỏ](/2019/05/benh/phan2.jpg)
+Viên phân mềm có hình dạng giống quả nho đen.
+
+* * *
+
+## Thỏ có vấn đề tiêu hóa
+
+Bất kì sự xáo trộn trong môi trường đường ruột có thể dẫn đến sự thay đổi hình dạng của phân:
+ 
+<figure class="extendout">
+  {% include img.html src="/2019/05/benh/phan3.jpg" alt="xem bệnh qua phân thỏ" %}
+</figure>
+
+**Phân nhỏ và khô**
+
+- Dấu hiệu mất nước, chán ăn, thiếu chất xơ trong chế độ ăn uống, bị bệnh hoặc đang dùng thuốc.
+
+<figure class="extendout">
+  {% include img.html src="/2019/05/benh/phan4.jpg" alt="xem bệnh qua phân thỏ" %}
+</figure>
+
+
