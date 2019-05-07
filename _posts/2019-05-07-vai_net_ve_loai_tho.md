@@ -29,18 +29,29 @@ Thỏ là loài động vật gặm nhắm, có ưu điểm dễ nuôi, sinh s�
 
 ## Những loài thỏ được nuôi tại Việt Nam
 
-1.      Thỏ đen Việt Nam:
+1. Thỏ đen Việt Nam
+
 Thỏ này có màu lông và mắt đen tuyền, đầu và mõm nhỏ, cổ không vạm vỡ nhưng thân hình chắc chắn, thịt ngon. Khối lượng trưởng thành 3,2 – 3,5 kg, thỏ mắn đẻ, mỗi năm đẻ  lứa, mỗi lứa 6 - 7 con.
-2.      Thỏ Việt Nam xám:
+
+2. Thỏ Việt Nam xám
+
 Thỏ có màu long xám tro hoặc xám ghi. Riêng phần dưới ngực, bụng, đuôi có màu lông trắng. Mắt đen, đầu to vừa phải, lưng hơi cong, khối lượng trưởng thành nặng 3,5 – 3,8 kg. Thỏ đẻ khỏe, mỗi năm 6 – 7 lứa và mỗi lứa 6 - 7 con.
 Cũng như thỏ đen giống thỏ xám thích hợp với điều kiện chăn nuôi gia đình các vùng ở nước ta và cũng là giống sử dụng con nái nền lai tạo với giống thỏ ngoại nâng cao năng suất chăn nuôi lấy thịt, lông da.
-3.      Thỏ cỏ:
+
+3. Thỏ cỏ
+
 Có nhiều trong dân, màu lông rất khác nhau như: trắng pha vàng hoặc đen pha trắng, xám loang trắng…. hầu hết mắt đen, rất ít con mắt đỏ, đầu to, mõm dài, trọng lượng trưởng thành khoảng 2,5 – 3 kg/con, khả năng sử dụng thức ăn, sinh sản, chống đỡ bệnh tật tốt, đã có hiện tượng đồng huyết, năng suất ngày càng giảm.
-4.      Thỏ Newzealand White:
+
+4. Thỏ Newzealand White
+
 Thỏ có đặc điểm ngoại hình lông dày màu trắng tuyền, mắt hồng, khối lượng trưởng thành từ 5 – 5,5 kg/con. Tuổi động dục lần đầu 4 – 4,5 tháng tuổi và tuổi phối giống lần đầu từ 5 – 6 tháng tuổi, khi đó khối lượng phối giống lần đầu đạt khoảng 3 – 3,2 kg. Mỗi năm đẻ từ 5 – 6 lứa, mỗi lứa 5 -6 con. Khối lượng con sơ sinh từ 50 – 60 g/con. Khối lượng cai sữa 650 – 700 g/con. Giống thỏ này đã thích ứng tốt với điều kiện chăn nuôi gia đình ở trong nước.
+
 Hiện tại Miền Trung và Tây Nguyên chỉ có Trại Thỏ CHIẾN HUY cung cấp giống thỏ này.
-5.      Giống thỏ California:
+
+5. Giống thỏ California
+
 Có nguồn gốc ở Mỹ, được tạo thành do lai giữa thỏ Chinchila, thỏ Nga và thỏ Newzealand, nhập vào Việt Nam từ Hungari năm 1978 và năm 2000.
+
 Là giống thỏ cho khối lượng thịt trung bình là 4,5 – 5 kg, tỷ lệ xẻ thịt 55 - 60 %, thân ngắn hơn thỏ Newzealand, lông trắng nhưng tai, mũi, 4 chân và đuôi có điểm lông đen, vào mùa đông lớp lông màu đên này đậm hơn và nhạt dần vào mùa hè. Khả năng sinh sản tương tự như thỏ Newzealand. Giống thỏ này cũng được nuôi ở nhiều vùng trong cả nước.
 
 Nguồn: trại thỏ chiến huy
