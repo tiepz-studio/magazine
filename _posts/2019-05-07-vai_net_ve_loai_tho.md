@@ -2,7 +2,6 @@
 title: Vài nét về loài thỏ
 seo_title: Thỏ là loài động vật gặm nhắm, có ưu điểm dễ nuôi, sinh sản nhanh, không tranh chấp lương thực với người và gia súc khác
 custom_type: post
-tags: [Loài thỏ]
 categories:
 - Nuôi thỏ
 excerpt: Thỏ là loài động vật gặm nhắm, có ưu điểm dễ nuôi, sinh sản nhanh, không tranh chấp lương thực với người và gia súc khác
