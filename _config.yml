@@ -28,7 +28,7 @@ defaults:
         movie:
           letterboxd:
 name: Tiepz Magazine
-url: https://magazine.tiepz.com
+url: https://traithocantho.com
 description:
   A web-column about comic books, Star Wars, movies, Apple, technology,
   and other geekery.
@@ -75,6 +75,7 @@ webmentions:
     - https://magazine.tiepz.com
     - https://tiepz.com
     - https://nuoitho.com
+    - https://traithocantho.com
   templates:
     likes: _includes/webmentions/like.html
     reposts: _includes/webmentions/repost.html
