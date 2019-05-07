@@ -12,6 +12,9 @@ date: 2019-05-07 04:42
 
 Thỏ là loài động vật gặm nhắm, có ưu điểm dễ nuôi, sinh sản nhanh, không tranh chấp lương thực với người và gia súc khác, có thể tận dụng được các phụ phẩm nông nghiệp, cỏ, lá tự nhiên, sức lao động phụ trong gia đình, đầu tư ít vốn quay vòng nhanh, chuồng trại có thể tận dụng được các nguyên vật liệu sẵn có rẻ tiền của địa phương.
 
+{% include img.html src="/2019/05/tho/rabbit.jpg" alt="Nuôi thỏ con đến khi tách mẹ 31 ngày tuổi" %}
+
+
 ## Tầm quan trọng của thỏ đối với con người
 
 > Loài thỏ được con người biết đến đầu tiên đó là những con thỏ châu Âu vào khoảng 1000 năm trước công nguyên bởi những người xứ Phoenician. Thỏ rừng Châu Âu là loài thỏ duy nhất được thuần hóa. Thỏ vừa được xem là thú nuôi, làm thực phẩm và cũng là nguyên liệu để sản xuất vacxin, thuốc cho người.
