@@ -7,7 +7,7 @@ seo_title: New to Tiepz Magazine? Read this first
 
 Thank you so much for visiting my online home. *Tiepz Magazine* is a web-column I've written since 2013. When I first launched this site, it was called *The Bold Report*. In 2017, [I changed the name to *Brightly Colored*](/2017/10/a-new-beginning/). Unfortunately, that name didn't work either, so [I decided on *Bright&nbsp;Pixels*](/2019/01/introducing-bright-pixels/).
 
-*Phew*. Now that we've got that out of the way allow me to introduce myself. I'm [Tim Smith](https://tiepz.com/), a former designer and frontend developer, currently working as the Senior Producer at [Changelog Media](https://changelog.com/).
+*Phew*. Now that we've got that out of the way allow me to introduce myself. I'm [Tim Smith](https://thonau.com/), a former designer and frontend developer, currently working as the Senior Producer at [Changelog Media](https://changelog.com/).
 
 This site has over 600 posts. Some are pretty good; others are ok, some are downright bad. And guess what? That's ok. The site serves to document my interests and opinions at that moment. Just as a person goes through different phases of life, so has this site. There have been periods where I write a lot about a particular topic, then move on to another. _Tiepz Magazine_ is a reflection of my life, my personal growth, my successes, and my sorrows.
 

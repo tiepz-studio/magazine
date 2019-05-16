@@ -1,5 +1,5 @@
 ---
-title: Tiepz Magazine
+title: Thỏ nấu cơm Magazine
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -72,8 +72,6 @@ webmentions:
     last_year: weekly
     older: every 2 months
   legacy_domains:
-    - https://magazine.tiepz.com
-    - https://tiepz.com
     - https://nuoitho.com
     - https://traithocantho.com
   templates:
