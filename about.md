@@ -1,18 +1,18 @@
 ---
 title: About
 permalink: "/about/"
-excerpt: Find out more about Tiepz Magazine.
+excerpt: Find out more about Thỏ nấu cơm® Magazine.
 layout: page
 ---
 
-_Tiepz Magazine_ chuyên viết về nuôi thỏ, trồng cây ươm cây chất lượng để nuôi thỏ, [Tiepz Studio](http://tiepz.com), tỏa sáng tại [Thành phố Thái Bình, TB. Việt Nam](https://tiepz.com).
+_Thỏ nấu cơm® Magazine_ chuyên viết về nuôi thỏ, trồng cây ươm cây chất lượng để nuôi thỏ, [Tiepz Studio](http://tiepz.com), tỏa sáng tại [Thành phố Thái Bình, TB. Việt Nam](https://tiepz.com).
 
 <figure class="extendout">
   {% include_cached img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
   <figcaption>Photo by <a href="https://www.jaimielaurenphoto.com/">Jaimie Lauren</a></figcaption>
 </figure>
 
-<mark markdown="span">If this is your first time visiting *Tiepz Magazine*, be sure to read [HELLO&nbsp;WORLD](/hello/).</mark>
+<mark markdown="span">If this is your first time visiting *Thỏ nấu cơm® Magazine*, be sure to read [HELLO&nbsp;WORLD](/hello/).</mark>
 
 ## About Tim
 
@@ -70,4 +70,4 @@ A huge thanks to the friends who've contributed to this site: [TJ Draper](/autho
 
 ## Affiliate Links
 
-Some of the links on this site are affiliate links. When you use them, _Tiepz Magazine_ gets a small commission for what you buy at no cost to you. Thank you for your support.
+Some of the links on this site are affiliate links. When you use them, _Thỏ nấu cơm® Magazine_ gets a small commission for what you buy at no cost to you. Thank you for your support.

@@ -1,16 +1,16 @@
 ---
-title: Introducing Tiepz Magazine
+title: Introducing Thỏ nấu cơm® Magazine
 date: 2019-01-18 00:21:00 -06:00
 categories:
 - From the Editor
 subtitle: My blog has a new name… again
-seo_title: Brightly Colored is now Tiepz Magazine
+seo_title: Brightly Colored is now Thỏ nấu cơm® Magazine
 custom_type: post
 ---
 
-**TL;DR** *Brightly Colored* is now called *Tiepz Magazine*.
+**TL;DR** *Brightly Colored* is now called *Thỏ nấu cơm® Magazine*.
 
-Welcome to the new *Tiepz Magazine*. It almost feels ridiculous to be writing another post like this only fifteen months after [the last one](/2017/10/a-new-beginning/).
+Welcome to the new *Thỏ nấu cơm® Magazine*. It almost feels ridiculous to be writing another post like this only fifteen months after [the last one](/2017/10/a-new-beginning/).
 
 When I chose the name *Brightly Colored*, I was excited. The name seemed to say a lot about me in just two words. But unfortunately, the name wasn't ideal for people trying to find the site via search engine. Most search engines assume people are trying to get the definition of "brightly colored"—not a blog about geekery. 
 

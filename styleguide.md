@@ -3,7 +3,7 @@ title: Style Guide
 permalink: "/styleguide/"
 layout: page
 exclude_from_search: true
-excerpt: Style guide for Tiepz Magazine.
+excerpt: Style guide for Thỏ nấu cơm® Magazine.
 ---
 
 <figure class="small__right">
@@ -11,7 +11,7 @@ excerpt: Style guide for Tiepz Magazine.
   <figcaption>Use the <code>.small__right</code> class for this particular styling</figcaption>
 </figure>
 
-This page exists to show the different components and pieces of _Tiepz Magazine_. More than anything, I maintain it because I think style guides are interesting. There's also a [writing style guide](/styleguide/writing/) if you enjoy that type of stuff.
+This page exists to show the different components and pieces of _Thỏ nấu cơm® Magazine_. More than anything, I maintain it because I think style guides are interesting. There's also a [writing style guide](/styleguide/writing/) if you enjoy that type of stuff.
 
 This website is currently set in Whitney for primary and secondary text, and Whitney Condensed for headings.
 

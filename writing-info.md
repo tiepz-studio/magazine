@@ -3,12 +3,12 @@ title: Contribution Guidelines
 permalink: "/contribute/"
 layout: page
 description: Helpful information for authors or soon-to-be-authors when writing content
-  for *Tiepz Magazine*.
+  for *Thỏ nấu cơm® Magazine*.
 exclude_from_search: true
-excerpt: Guidelines for writing on Tiepz Magazine.
+excerpt: Guidelines for writing on Thỏ nấu cơm® Magazine.
 ---
 
-First of all, thank you for your interest in contributing! That means a lot. This guide was made to make contributing to _Tiepz Magazine_ easier. If you feel there's something missing here or you have questions, you can send an email to: [smith@tiepz.com](mailto:smith@tiepz.com?subject=[brightpixels.blog] Question about contributing) or [add an issue to the repo](https://github.com/smithtimmytim/brightpixels.blog/issues/new).
+First of all, thank you for your interest in contributing! That means a lot. This guide was made to make contributing to _Thỏ nấu cơm® Magazine_ easier. If you feel there's something missing here or you have questions, you can send an email to: [smith@tiepz.com](mailto:smith@tiepz.com?subject=[brightpixels.blog] Question about contributing) or [add an issue to the repo](https://github.com/smithtimmytim/brightpixels.blog/issues/new).
 
 {% include toc.html %}
 
@@ -189,4 +189,4 @@ review:
 
 ## Thank You
 
-Thank you so much for reading this guide. I appreciate you wanting to contribute to _Tiepz Magazine_. Again, If you feel there's something missing here or you have questions, you can send an email to, send an email to: [smith@tiepz.com](mailto:smith@tiepz.com?subject=[brightpixels.blog] Question about contributing) or [add an issue to the repo](https://github.com/smithtimmytim/brightpixels.blog/issues/new).
+Thank you so much for reading this guide. I appreciate you wanting to contribute to _Thỏ nấu cơm® Magazine_. Again, If you feel there's something missing here or you have questions, you can send an email to, send an email to: [smith@tiepz.com](mailto:smith@tiepz.com?subject=[brightpixels.blog] Question about contributing) or [add an issue to the repo](https://github.com/smithtimmytim/brightpixels.blog/issues/new).
