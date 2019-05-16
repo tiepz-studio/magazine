@@ -1,6 +1,6 @@
 ---
 title: Thỏ nấu cơm Magazine
-timezone: America/Los_Angeles
+timezone: Asia/Ho_Chi_Minh
 collections:
   posts:
     title: Posts
@@ -30,8 +30,7 @@ defaults:
 name: Thỏ nấu cơm® Magazine
 url: https://traithocantho.com
 description:
-  A web-column about comic books, Star Wars, movies, Apple, technology,
-  and other geekery.
+  Một tạp chí magazine nghề nuôi thỏ được phát triển và sở hữu bởi Thỏ nấu cơm, đồng sở hữu Phạm Xuân Tiếp và gia đình.
 permalink: '/:year/:month/:title/'
 exclude:
   - README.md
