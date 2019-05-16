@@ -11,8 +11,9 @@ date: 2019-05-07 04:42
 
 Thỏ là loài động vật gặm nhắm, có ưu điểm dễ nuôi, sinh sản nhanh, không tranh chấp lương thực với người và gia súc khác, có thể tận dụng được các phụ phẩm nông nghiệp, cỏ, lá tự nhiên, sức lao động phụ trong gia đình, đầu tư ít vốn quay vòng nhanh, chuồng trại có thể tận dụng được các nguyên vật liệu sẵn có rẻ tiền của địa phương.
 
+<figure class="extendout">
 {% include img.html src="/2019/05/tho/rabbit.jpg" alt="Nuôi thỏ con đến khi tách mẹ 31 ngày tuổi" %}
-
+</figure>
 
 ## Tầm quan trọng của thỏ đối với con người
 
