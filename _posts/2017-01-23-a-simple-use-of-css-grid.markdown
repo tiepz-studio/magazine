@@ -89,7 +89,7 @@ That's it. Grid looks intimidating, but it's simplicity and versatility will bec
 }
 ```
 
-Pretty cool huh? If you have any questions or would like to discuss it further, [send me an email](mailto:smith@tiepz.com).
+Pretty cool huh? If you have any questions or would like to discuss it further, [send me an email](mailto:tiep@thonau.com).
 
 [6765-0001]: https://twitter.com/jensimmons
 [6765-0002]: https://twitter.com/rachelandrew

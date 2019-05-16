@@ -32,7 +32,7 @@ I originally started this site thinking I'd be the next [John Gruber](https://en
 
 Send me an email anytime. I love getting an email from actual people. If you have a product you'd like me to review, feel free to reach out.
 
-- Email: [smith@tiepz.com](mailto:smith@tiepz.com?subject=[brightpixels.blog] Hey Tim!)
+- Email: [tiep@thonau.com](mailto:tiep@thonau.com?subject=[brightpixels.blog] Hey Tim!)
 
 - Follow me on Micro.blog: [@smith](https://micro.blog/smith)
 - Follow me on [Flickr](https://www.flickr.com/photos/smithtimmytim/)

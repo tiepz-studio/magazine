@@ -61,4 +61,4 @@ Lots of code just to space each post evenly, except for the last one. This is wh
 
 We've eliminated *five* lines of code here. Just imagine how much you'd save by using this throughout your code base! I made [a CodePen for you to see this](http://codepen.io/timothybsmith/pen/VPNBdW) in action.
 
-Hope this helps! If you have questions, [send me an email to smith@tiepz.com](mailto:smith@tiepz.com).
+Hope this helps! If you have questions, [send me an email to tiep@thonau.com](mailto:tiep@thonau.com).

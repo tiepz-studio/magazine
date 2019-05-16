@@ -45,4 +45,4 @@ There are a few other reasons like easy deployment from GitHub, deploy previews 
 
 The people over at Netlify are doing a pretty great job. It seems very smart to me to design and build for the needs of people building static sites. I'm sure that number is growing and will continue to do so. Also, I'd be remiss not to mention how well designed the UI is. The experience has been very well thought through. Kudos to [Rafael Conde](https://rafaelconde.net/).
 
-If you've been looking to make a move for your static sites, you should definitely consider [Netlify](https://www.netlify.com/). If you have further questions, you can always [email me](mailto:smith@tiepz.com).
+If you've been looking to make a move for your static sites, you should definitely consider [Netlify](https://www.netlify.com/). If you have further questions, you can always [email me](mailto:tiep@thonau.com).

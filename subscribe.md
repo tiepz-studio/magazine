@@ -11,6 +11,6 @@ layout: page
 
 Email not your thing? No problem!
 
-- Tiepz shop: <https://tiepz.com>
-- Follow *Thỏ nấu cơm® Magazine* on Facebook: [@tiepz](https://facebook.com/tiepz)
+- Thỏ nấu cơm® Shop: <https://thonau.com>
+- Follow *Thỏ nấu cơm® Magazine* on Facebook: [@Thỏ-Nấu-Cơm-2021504334824047](https://facebook.com/Thỏ-Nấu-Cơm-2021504334824047)
 

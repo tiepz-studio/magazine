@@ -14,4 +14,4 @@ In addition, to the Grid stuff, I've tried to add more of my personality to the 
 
 Another thing I focused on was to optimize space on large screens. I still think there's work to do in this department, but it's definitely better than previous versions. You'll see that blog posts go from one column to two then three. I'm still containing content at a certain width, which some might disagree with but I like it.
 
-I invite you to take a look, use your inspector tool (or [look at the code on GitHub](https://github.com/smithtimmytim/tiepz.com)), and let me know what you think. If you have some constructive criticism [send me an email](smith@tiepz.com). I'd love to hear from you.
+I invite you to take a look, use your inspector tool (or [look at the code on GitHub](https://github.com/smithtimmytim/tiepz.com)), and let me know what you think. If you have some constructive criticism [send me an email](tiep@thonau.com). I'd love to hear from you.

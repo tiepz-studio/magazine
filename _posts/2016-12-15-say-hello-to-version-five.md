@@ -26,4 +26,4 @@ subtitle: What's new in the newest version of the site.
 - **Make 404 more helpful** - [Check it out](/404/). You tell me what you think. I think it's way more helpful.
 - **Redesign Search** - This is my favorite new thing. Now you can search directly in the header like before, but you'll see results right below it. You can still press enter if you want to see results larger, but I think it'll help you find content easier. Huge shoutout to [TJ Draper](https://brightpixels.blog/authors/tjdraper) for helping me with this.
 
-You can view the [full release with relevant pull requests on GitHub](https://github.com/smithtimmytim/theboldreport.net/releases/tag/v5.0.0). If you normally read in your RSS Reader, take a look at the site. [Would love to hear your thoughts](mailto:smith@tiepz.com).
+You can view the [full release with relevant pull requests on GitHub](https://github.com/smithtimmytim/theboldreport.net/releases/tag/v5.0.0). If you normally read in your RSS Reader, take a look at the site. [Would love to hear your thoughts](mailto:tiep@thonau.com).

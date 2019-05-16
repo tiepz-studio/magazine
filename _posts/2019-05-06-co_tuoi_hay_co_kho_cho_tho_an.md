@@ -34,4 +34,4 @@ Cung cấp một nguồn cung cấp liên tục của cỏ tươi chất lượn
 
 Hầu hết các chuyên gia khuyên rằng chế độ ăn của thỏ nên ở mức khoảng 80% cỏ khô hoặc hơn trong khi mỗi chú thỏ của bạn có loại cỏ khô mà nó thích và cần, bạn có thể cho chúng ăn cỏ hoặc để chúng gặm cỏ. Bạn có thể thấy rằng mỗi con thỏ có sở thích và thích thú khác nhau, vì vậy khi bạn tìm thấy những gì nó thích, hãy tiếp tục và nếu giới thiệu các loại cỏ mới bắt đầu với những phần nhỏ để tránh làm đảo lộn hệ thống tiêu hóa thỏ của bạn.
 
-Để gia tăng các nguồn thức ăn tốt cho thỏ của trại mình, và tiết giảm chi phí thức ăn cho thỏ, xin liên hệ bên mình để đặt hàng hoặc vào website [tiepz shop](https://tiepz.com).
+Để gia tăng các nguồn thức ăn tốt cho thỏ của trại mình, và tiết giảm chi phí thức ăn cho thỏ, xin liên hệ bên mình để đặt hàng hoặc vào website [Thỏ nấu cơm® Shop](https://thonau.com).

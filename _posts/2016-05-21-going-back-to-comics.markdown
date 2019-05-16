@@ -119,7 +119,7 @@ If you want to see what other people are picking up that week, you can check the
 
 ## Conclusion
 
-That’s the extent of my knowledge right now. Remember, I’m new to all of this too! If you have questions or need a buddy, you can always [get in touch with me via Twitter](https://twitter.com/smithtimmytim) or [send me an email](mailto:smith@tiepz.com?subject=I have a comic question).
+That’s the extent of my knowledge right now. Remember, I’m new to all of this too! If you have questions or need a buddy, you can always [get in touch with me via Twitter](https://twitter.com/smithtimmytim) or [send me an email](mailto:tiep@thonau.com?subject=I have a comic question).
 
 I hope you feel like you’re walking away with some great recommendations, and less intimidation (if you felt that at all)  than before. Happy comic book reading!
 

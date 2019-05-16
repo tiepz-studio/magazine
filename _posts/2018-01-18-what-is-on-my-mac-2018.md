@@ -64,7 +64,7 @@ If you enjoy wallpapers, Kuvva is a perfect menubar app that changes your wallpa
 - [**EncryptMe**](https://encrypt.me/):
 I think it's a good idea to use a VPN if you're not on a secured network. Hell, it might be a good idea to use a VPN even if you are. My tinfoil hat aside, EncryptMe (formerly Cloak) makes it incredibly easy to use a VPN and to give them money with the variety of pricing options. One of the plans is bound to suit your needs.
 
-What about you? What are some of your favorite or crucial apps? Send an email to [smith@tiepz.com](mailto:smith@tiepz.com) and let me know.
+What about you? What are some of your favorite or crucial apps? Send an email to [tiep@thonau.com](mailto:tiep@thonau.com) and let me know.
 
 [5830-0001]: https://code.visualstudio.com/
 [5830-0002]: https://atom.io/

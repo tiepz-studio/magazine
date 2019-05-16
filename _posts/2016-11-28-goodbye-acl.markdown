@@ -17,4 +17,4 @@ My last day is tomorrow, Nov 29. I had so much fun working at ACL, and had the c
 
 I’m so thankful to everyone at ACL for being incredibly supportive of me, and how much they’ve helped me grow. On Wednesday, I’ll head to Miami for the awesome Caribbean cruise we’re going on!
 
-If you’re team is hiring, [please get in touch](mailto:smith@tiepz.com?subject=My company is hiring! Work with me)! In the meantime, I’m looking for freelance work, so if you or someone you know needs a designer/frontend developer for a project, [you should definitely hire me](http://hire.tiepz.com).
+If you’re team is hiring, [please get in touch](mailto:tiep@thonau.com?subject=My company is hiring! Work with me)! In the meantime, I’m looking for freelance work, so if you or someone you know needs a designer/frontend developer for a project, [you should definitely hire me](http://hire.tiepz.com).

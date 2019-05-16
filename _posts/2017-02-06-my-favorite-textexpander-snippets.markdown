@@ -80,7 +80,7 @@ I also have one for 🖖🏼 (probably my most used emoji), which is just `:spoc
 
 These are just *some* of my uses for TextExpander. The possibilities are endless, and I hope you see the ways you'd use it.
 
-If you enjoyed this post and would like to talk more about TextExpander, have questions, or share all the cool ways you use it, [send an email to smith@tiepz.com](mailto:smith@tiepz.com).
+If you enjoyed this post and would like to talk more about TextExpander, have questions, or share all the cool ways you use it, [send an email to tiep@thonau.com](mailto:tiep@thonau.com).
 
 [6508-0001]: https://smilesoftware.com/textexpander
 [6508-0002]: http://dayoneapp.com

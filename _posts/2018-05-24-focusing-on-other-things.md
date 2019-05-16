@@ -12,7 +12,7 @@ custom_type: post
 
 ~~And that's ok. So this is the end. Thank you for all your support over the years, and for reading. I will be focusing more on [my YouTube channel](https://www.youtube.com/smithtimmytim), trying to produce great content over on [The Changelog](https://changelog.com), and audio journaling all about it on [The Radio Column](https://tiepz.com/podcasts/column/).~~
 
-~~If you have thoughts, questions or concerns, feel free to send me an email at <smith@tiepz.com>.~~
+~~If you have thoughts, questions or concerns, feel free to send me an email at <tiep@thonau.com>.~~
 
 ~~Take care.~~
 

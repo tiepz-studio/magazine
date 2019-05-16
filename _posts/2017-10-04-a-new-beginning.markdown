@@ -15,6 +15,6 @@ Then, suddenly, like a opossum in the night, it came to me: *Brightly Colored*. 
 
 This name speaks to so much more than just what I wear, but I don't want to bore you with the details. Just like *The Bold Report*, you'll find my musings on a whole range of different things. I've brought over all of the archives, and I (hopefully) redirected all the RSS feeds. If you're subscribed to the email newsletter, you don't need to change anything either.
 
-I'd love to hear what you think of the new site and name! As always, [you can find me on Twitter](https://twitter.com/smithtimmytim) or [send me an email](mailto:smith@tiepz.com?subject=[brightpixels.blog] Hello). Thank you for all your support.
+I'd love to hear what you think of the new site and name! As always, [you can find me on Twitter](https://twitter.com/smithtimmytim) or [send me an email](mailto:tiep@thonau.com?subject=[brightpixels.blog] Hello). Thank you for all your support.
 
 [^ironically]: Much like The Colbert Report was.

@@ -20,7 +20,7 @@ Here's my list that'll be updated as new movies come out.
 8. *[Attack of the Clones][4169-0003]*
 9. *[The Phantom Menace][4169-0004]*
 
-My list will change as more movies come out. What about you? [Send me an email](mailto:smith@tiepz.com) with your thoughts.
+My list will change as more movies come out. What about you? [Send me an email](mailto:tiep@thonau.com) with your thoughts.
 
 ---
 

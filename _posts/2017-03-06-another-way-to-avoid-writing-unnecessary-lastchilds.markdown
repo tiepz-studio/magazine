@@ -32,4 +32,4 @@ If we go back to the original example, each `.post` would already be correctly s
 
 This only eliminates one line here, but possibly hundreds throughout our codebase.
 
-As always, if you have questions or would like to discuss [send me an email](mailto:smith@tiepz.com).
+As always, if you have questions or would like to discuss [send me an email](mailto:tiep@thonau.com).
