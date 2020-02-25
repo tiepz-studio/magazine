@@ -4,7 +4,7 @@ ruby RUBY_VERSION
 
 gem 'jekyll'
 gem 'liquid-c', :git => 'https://github.com/Shopify/liquid-c.git', branch: 'master'
-gem 'nokogiri', '~> 1.8', '>= 1.8.1'
+gem 'nokogiri', '~> 1.10'
 gem 'sassc-rails', '~> 1.3'
 
 
